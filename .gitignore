@@ -1,4 +1,6 @@
 *.Sem
 *.Wrk
 *.WPI.engineer.BAK???.acd
+*.WPI.sander.blaakmeer.BAK???.acd
 **Recovery
+*.vpd.lock
