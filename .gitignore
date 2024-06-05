@@ -5,4 +5,7 @@
 *.WPI_User.BAK???.acd
 **Recovery
 *.vpd.lock
+*.BAK
 Topping/Commefords_Topping_Generated.WPI.tom.reit.BAK061.acd
+Topping/Commefords_Topping_Generated.WPI.tom.reit.BAK063.acd
+*.acd
